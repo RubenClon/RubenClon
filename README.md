@@ -31,13 +31,13 @@ Mi trayectoria me ha aportado una alta capacidad de adaptación, disciplina, tom
 Un videojuego de agilidad y resolución de puzles en un mundo futurista donde el protagonista es una cabeza robótica con dos personalidades opuestas.
 - **Desafío Técnico:** Implementación de una **máquina de estados dinámica** para alternar entre Rub (lógico) y Dar (impulsivo) en tiempo real, modificando directamente las físicas, habilidades y la interacción con el entorno.
 - **Estética:** Combinación de renderizado 2.5D empleando técnicas de `Sprite3D` y *billboarding* para evocar los clásicos de los 90.
-- 🕹️ **[¡Juega a la demo en Itch.io!](https://rubenclon.itch.io/rub-dar)**
+- 🕹️ **[¡Juega en Itch.io!](https://rubenclon.itch.io/rub-dar)**
 
 #### ⚔️ [K34 Superviviente (Action Bullet-Hell)](https://github.com/RubenClon/K34-Superviviente)
 Videojuego de acción frenética y supervivencia de oleadas desarrollado bajo la presión de tiempo de una **Game Jam**.
 - **Desafío Técnico:** Optimización de código y físicas para gestionar **oleadas masivas de hasta 200 enemigos simultáneos** en pantalla. Desarrollo algorítmico de trayectorias para *power-ups* complejos (disparo en 8 direcciones, balas perforadoras) y persistencia de puntuaciones mediante un ranking local.
 - **Colaboración:** Proyecto desarrollado codo con codo junto a una diseñadora gráfica, aplicando metodologías ágiles de integración de assets.
-- 🕹️ **[¡Juega a la demo en Itch.io!](https://k34dev.itch.io/k34-superviviente)** | 🔗 **[Ficha en Conduit Gaming](https://conduitgaming.com/games/0874c44d-fb20-42f1-835a-95eeada77457)**
+- 🕹️ **[¡Juega en Itch.io!](https://k34dev.itch.io/k34-superviviente)** | 🔗 **[Ficha en Conduit Gaming](https://conduitgaming.com/games/0874c44d-fb20-42f1-835a-95eeada77457)**
 
 ---
 
