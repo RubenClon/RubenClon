@@ -14,7 +14,7 @@ Comprometido, detallista y con una alta capacidad de adaptación y trabajo en eq
 
 ## 🚀 Proyectos Destacados
 
-### 🎨 [Portfolio 3D - Diseño y Modelado de Entornos](ENLACE_A_TU_REPOSITORIO_PORTFOLIO_3D)
+### 🎨 [Portfolio 3D - Diseño y Modelado de Entornos](https://github.com/RubenClon/Portfolio-3D.git)
 Repositorio dedicado al modelado y optimización de assets y entornos tridimensionales utilizando **Blender**, con un enfoque directo en su integración en motores de videojuegos como Godot o impresión 3D.
 - **Proyecto Destacado:** Escenario Industrial / Almacén modular postapocalíptico.
 
