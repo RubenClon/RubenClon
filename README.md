@@ -19,13 +19,13 @@ Mi trayectoria me ha aportado una alta capacidad de adaptación, disciplina, tom
 
 ## 🚀 Proyectos Destacados por Áreas
 
-### 📱 Sección: Kotlin & Backend
+### 📱 Kotlin & Backend
 
 - **[apps](ENLACE_A_TU_REPO_KOLTIN):** Aplicación multiplataforma completa desarrollada con **Kotlin Multiplatform** en el frontend y **Ktor** en el backend para la gestión y sincronización de datos en tiempo real.
 
 ---
 
-### 🎮 Sección: Godot & Videojuegos
+### 🎮 Godot & Videojuegos
 
 #### 🤖 [Rub & Dar (Puzzle & Agility Retro 3D)](https://github.com/RubenClon/Rub-and-Dar)
 Un videojuego de agilidad y resolución de puzles en un mundo futurista donde el protagonista es una cabeza robótica con dos personalidades opuestas.
@@ -41,7 +41,7 @@ Videojuego de acción frenética y supervivencia de oleadas desarrollado bajo la
 
 ---
 
-### 🎨 Sección: Diseño & Modelado 3D
+### 🎨 Diseño & Modelado 3D
 
 #### 🏢 [Portfolio 3D - Diseño y Modelado de Entornos](https://github.com/RubenClon/Portfolio-3D.git)
 Repositorio showroom enfocado en la creación de entornos tridimensionales estructurados y optimizados para su integración en proyectos de software.
