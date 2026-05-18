@@ -18,7 +18,7 @@ Comprometido, detallista y con una alta capacidad de adaptación y trabajo en eq
 Repositorio dedicado al modelado y optimización de assets y entornos tridimensionales utilizando **Blender**, con un enfoque directo en su integración en motores de videojuegos como Godot o impresión 3D.
 - **Proyecto Destacado:** Escenario Industrial / Almacén modular postapocalíptico.
 
-### [Rub and Dar](https://github.com/RubenClon/Rub-and-Dar)
+### [🎮 Rub and Dar](https://github.com/RubenClon/Rub-and-Dar)
 
 ### [⚔️ K34 Superviviente](https://github.com/RubenClon/K34-Superviviente)
 
