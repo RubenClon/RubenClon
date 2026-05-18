@@ -20,7 +20,7 @@ Repositorio dedicado al modelado y optimización de assets y entornos tridimensi
 
 ### [Rub and Dar](https://github.com/RubenClon/Rub-and-Dar)
 
-# ⚔️ K34 Superviviente (Action Bullet-Hell / Survivor)
+### [⚔️ K34 Superviviente](https://github.com/RubenClon/K34-Superviviente)
 
 Un videojuego de acción frenética y supervivencia desarrollado en equipo durante una **Game Jam**. El proyecto destaca por la gestión de físicas en tiempo real para oleadas masivas de enemigos y un sistema dinámico de *power-ups*.
 
@@ -54,7 +54,7 @@ Este proyecto fue desarrollado en colaboración directa con una **diseñadora gr
 
 - **Movimiento:** ⬆️⬇️⬅️➡️ (Flechas del teclado)
 - **Pausa:** `ESC`
-- **Disparo:** Automático (basado en temporizadores y cadencia variable).
+- **Disparo:** Automático (basado en temporizadores y cadencia va
 
 # 🎮 Rub & Dar (Puzzle & Agility Retro 3D)
 
