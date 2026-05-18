@@ -6,8 +6,9 @@ Comprometido, detallista y con una alta capacidad de adaptación y trabajo en eq
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** Kotlin, Java, PHP, HTML5, CSS3, SQL
+- **Lenguajes:** Kotlin, Java, PHP, GDScript (Godot), HTML5, CSS3, SQL
 - **Frameworks & Ecosistema:** Kotlin Multiplatform (KMP), Ktor, Odoo (ERP)
+- **Motores de Desarrollo:** Godot Engine (2D/3D)
 - **Bases de Datos:** MySQL
 - **Diseño & 3D:** Blender, Impresión 3D
 
