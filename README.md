@@ -21,8 +21,15 @@ Mi trayectoria me ha aportado una alta capacidad de adaptación, disciplina, tom
 
 ### 📱 Kotlin & Backend
 
-- **[apps](ENLACE_A_TU_REPO_KOLTIN):** Aplicación multiplataforma completa desarrollada con **Kotlin Multiplatform** en el frontend y **Ktor** en el backend para la gestión y sincronización de datos en tiempo real.
 
+####📊 [Metricora — Ecosistema de Contabilidad Fiscal](https://github.com/RubenClon/metricora.git)
+Aplicación comercial multiplataforma nativa diseñada para gestionar la contabilidad e impuestos (IVA/IRPF) de autónomos bajo el modelo fiscal español.
+
+-Desafío Técnico: Arquitectura limpia (Clean Architecture) y MVVM con el 100% de la lógica de negocio y persistencia compartida para 5 plataformas (Android, iOS, Windows, macOS y Linux).
+
+-Implementación Avanzada: Uso de inyección de dependencias con Koin, persistencia reactiva tipo-segura con SQLDelight (gestionando migraciones manuales nativas por plataforma) y procesamiento de flujos asíncronos concurrentes con StateFlow y operadores combine(). Precisión financiera garantizada mediante almacenamiento estricto en céntimos (Long).
+
+-🔐 Integración nativa mediante expect/actual de APIs de bajo nivel de los sistemas operativos (Biometría local, FileProvider, AlarmManager y pasarelas de pago integrando Google Play Billing y StoreKit).
 ---
 
 ### 🎮 Godot & Videojuegos
